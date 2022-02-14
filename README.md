@@ -10,4 +10,4 @@ A[K]-th bulb. A bulb shines if it is on and all the previous bulbs are turned on
 Write a function solution that, given an array A of N different integers from 1 to N,
 returns the number of moments for which every turned on bulb shines.
 
-# Built in Dotnet 5 
+Needs dotnet 5 to run
